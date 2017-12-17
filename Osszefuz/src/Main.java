@@ -75,7 +75,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		String[][] tomb1 = new String[3][6]; // String[10][10]; vagy String[3][6];
+		String[][] tomb1 = new String[2][2]; // String[10][10]; vagy String[3][6];
 		String[][] tomb2 = new String[2][4]; // String[10][20]; vagy String[2][4];
 		tombFeltoltA(tomb1);
 		tombFeltoltB(tomb2);
